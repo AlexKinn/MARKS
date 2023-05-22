@@ -1,9 +1,16 @@
 .categories {
     display: flex;
+    justify-content: space-between;
     list-style: none;
-    padding: 0;
+    padding: 10px;
+    padding-left:  80px;
+    padding-right: 80px;
 }
-   
+
+.a {
+    color: inherit; /* or any desired color */
+    text-decoration: none;
+}
 .category-item {
     display: flex;
     flex-direction: column;

@@ -1,7 +1,7 @@
 import React from "react";
 import './FrontPage.css';
 import Categories from "./Categories";
-import Products from "./Products";
+import Products from "./ProductGrid";
 import SaleBanner from '../img/SaleBanner.jpg';
 
 const FrontPage = () => {
@@ -13,7 +13,11 @@ const FrontPage = () => {
         <img src={SaleBanner}></img>
       </div>
       <section>
-        <h2>Featured Products</h2>
+        <div className="">
+          <h2>Featured Products</h2>
+          <button></button>
+        </div>
+        
         <Products />
       </section>
       <section>

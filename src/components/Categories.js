@@ -13,8 +13,8 @@ import kitchen from '../img/Categories/Kitchen.PNG';
 
 const Categories = () => {
     return (
-      <div className="categories">
-        
+      <a href="">  
+        <div className="categories">
           <li className="category-item">
             <img src={sales}/>
             <p>Sales</p>
@@ -51,7 +51,8 @@ const Categories = () => {
             <img src={kitchen}/>
             <p>Kitchen</p>
           </li>
-      </div>
+        </div>
+      </a>
     )
 }
 

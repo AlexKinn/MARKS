@@ -1,9 +1,11 @@
 {
   "files": {
-    "main.css": "/AlexKinn.github.io/MARKS/static/css/main.ad7166e8.css",
-    "main.js": "/AlexKinn.github.io/MARKS/static/js/main.01a990f5.js",
+    "main.css": "/AlexKinn.github.io/MARKS/static/css/main.206b7f3c.css",
+    "main.js": "/AlexKinn.github.io/MARKS/static/js/main.d061f4e5.js",
     "static/js/787.71e672d5.chunk.js": "/AlexKinn.github.io/MARKS/static/js/787.71e672d5.chunk.js",
     "static/media/SaleBanner.jpg": "/AlexKinn.github.io/MARKS/static/media/SaleBanner.fca79608d850913f6588.jpg",
+    "static/media/bike.png": "/AlexKinn.github.io/MARKS/static/media/bike.6ad8c6dc005c0982088d.png",
+    "static/media/washingmachine.png": "/AlexKinn.github.io/MARKS/static/media/washingmachine.187e120f333220445522.png",
     "static/media/Sales.PNG": "/AlexKinn.github.io/MARKS/static/media/Sales.bd832d8665e7c2802b56.PNG",
     "static/media/Logo.PNG": "/AlexKinn.github.io/MARKS/static/media/Logo.18ea79517e91bb38fa63.PNG",
     "static/media/Gaming.PNG": "/AlexKinn.github.io/MARKS/static/media/Gaming.a2787c443ebdbf213643.PNG",
@@ -15,12 +17,12 @@
     "static/media/Phones.PNG": "/AlexKinn.github.io/MARKS/static/media/Phones.226fcd83be76ad28a159.PNG",
     "static/media/TVs.PNG": "/AlexKinn.github.io/MARKS/static/media/TVs.73d743ee4e7c2c000d2e.PNG",
     "index.html": "/AlexKinn.github.io/MARKS/index.html",
-    "main.ad7166e8.css.map": "/AlexKinn.github.io/MARKS/static/css/main.ad7166e8.css.map",
-    "main.01a990f5.js.map": "/AlexKinn.github.io/MARKS/static/js/main.01a990f5.js.map",
+    "main.206b7f3c.css.map": "/AlexKinn.github.io/MARKS/static/css/main.206b7f3c.css.map",
+    "main.d061f4e5.js.map": "/AlexKinn.github.io/MARKS/static/js/main.d061f4e5.js.map",
     "787.71e672d5.chunk.js.map": "/AlexKinn.github.io/MARKS/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad7166e8.css",
-    "static/js/main.01a990f5.js"
+    "static/css/main.206b7f3c.css",
+    "static/js/main.d061f4e5.js"
   ]
 }

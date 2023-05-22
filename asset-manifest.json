@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/MARKS/static/css/main.ad7166e8.css",
-    "main.js": "/MARKS/static/js/main.f03c913f.js",
-    "static/js/787.71e672d5.chunk.js": "/MARKS/static/js/787.71e672d5.chunk.js",
-    "static/media/SaleBanner.jpg": "/MARKS/static/media/SaleBanner.fca79608d850913f6588.jpg",
-    "static/media/Sales.PNG": "/MARKS/static/media/Sales.bd832d8665e7c2802b56.PNG",
-    "static/media/Logo.PNG": "/MARKS/static/media/Logo.18ea79517e91bb38fa63.PNG",
-    "static/media/Gaming.PNG": "/MARKS/static/media/Gaming.a2787c443ebdbf213643.PNG",
-    "static/media/Kitchenware.PNG": "/MARKS/static/media/Kitchenware.644e1b2e6f716705f3c2.PNG",
-    "static/media/Kitchen.PNG": "/MARKS/static/media/Kitchen.6df2be1bba9db19d31e5.PNG",
-    "static/media/Beauty.PNG": "/MARKS/static/media/Beauty.9ef4314147dd69fc3c7d.PNG",
-    "static/media/HomeAppliances.PNG": "/MARKS/static/media/HomeAppliances.1345eae15f9bbf9fdb2b.PNG",
-    "static/media/Computers.PNG": "/MARKS/static/media/Computers.429d1aaff1b69dbc1ca5.PNG",
-    "static/media/Phones.PNG": "/MARKS/static/media/Phones.226fcd83be76ad28a159.PNG",
-    "static/media/TVs.PNG": "/MARKS/static/media/TVs.73d743ee4e7c2c000d2e.PNG",
-    "index.html": "/MARKS/index.html",
-    "main.ad7166e8.css.map": "/MARKS/static/css/main.ad7166e8.css.map",
-    "main.f03c913f.js.map": "/MARKS/static/js/main.f03c913f.js.map",
-    "787.71e672d5.chunk.js.map": "/MARKS/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/AlexKinn.github.io/MARKS/static/css/main.ad7166e8.css",
+    "main.js": "/AlexKinn.github.io/MARKS/static/js/main.01a990f5.js",
+    "static/js/787.71e672d5.chunk.js": "/AlexKinn.github.io/MARKS/static/js/787.71e672d5.chunk.js",
+    "static/media/SaleBanner.jpg": "/AlexKinn.github.io/MARKS/static/media/SaleBanner.fca79608d850913f6588.jpg",
+    "static/media/Sales.PNG": "/AlexKinn.github.io/MARKS/static/media/Sales.bd832d8665e7c2802b56.PNG",
+    "static/media/Logo.PNG": "/AlexKinn.github.io/MARKS/static/media/Logo.18ea79517e91bb38fa63.PNG",
+    "static/media/Gaming.PNG": "/AlexKinn.github.io/MARKS/static/media/Gaming.a2787c443ebdbf213643.PNG",
+    "static/media/Kitchenware.PNG": "/AlexKinn.github.io/MARKS/static/media/Kitchenware.644e1b2e6f716705f3c2.PNG",
+    "static/media/Kitchen.PNG": "/AlexKinn.github.io/MARKS/static/media/Kitchen.6df2be1bba9db19d31e5.PNG",
+    "static/media/Beauty.PNG": "/AlexKinn.github.io/MARKS/static/media/Beauty.9ef4314147dd69fc3c7d.PNG",
+    "static/media/HomeAppliances.PNG": "/AlexKinn.github.io/MARKS/static/media/HomeAppliances.1345eae15f9bbf9fdb2b.PNG",
+    "static/media/Computers.PNG": "/AlexKinn.github.io/MARKS/static/media/Computers.429d1aaff1b69dbc1ca5.PNG",
+    "static/media/Phones.PNG": "/AlexKinn.github.io/MARKS/static/media/Phones.226fcd83be76ad28a159.PNG",
+    "static/media/TVs.PNG": "/AlexKinn.github.io/MARKS/static/media/TVs.73d743ee4e7c2c000d2e.PNG",
+    "index.html": "/AlexKinn.github.io/MARKS/index.html",
+    "main.ad7166e8.css.map": "/AlexKinn.github.io/MARKS/static/css/main.ad7166e8.css.map",
+    "main.01a990f5.js.map": "/AlexKinn.github.io/MARKS/static/js/main.01a990f5.js.map",
+    "787.71e672d5.chunk.js.map": "/AlexKinn.github.io/MARKS/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad7166e8.css",
-    "static/js/main.f03c913f.js"
+    "static/js/main.01a990f5.js"
   ]
 }

@@ -8,25 +8,25 @@ const FrontPage = () => {
   return (
     <div className="FrontPage">
       <div>
-      <Categories />
-      <div className="Banner">
-        <img src={SaleBanner}></img>
-      </div>
-      <section>
-        <div className="">
-          <h2>Featured Products</h2>
-          <button></button>
+        <Categories />
+        <div className="Banner">
+          <img src={SaleBanner}></img>
         </div>
-        
-        <Products />
-      </section>
-      <section>
-        <h2>About Us</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consectetur finibus mauris, vitae varius purus sollicitudin sit amet.</p>
-      </section>
-      <footer>
-        <p>&copy; 2023 MARKS. All rights reserved.</p>
-      </footer>
+        <section classname="ProductSection">
+          <div className="ProductHeader">
+            <h2>Top selling products</h2>
+            <button>View all top selling products</button>
+          </div>
+          <Products />
+        </section>
+        <section>
+          <h2>About Us</h2>
+          <p>Welcome to MARKS, We are a technology company based in London who strive to bring competitive prices to the market to ensure customers are getting the best deal possible! We take pride in providing the industry with a user-centered approach to our store, ensuring our users have the best experience shopping with us.
+          </p>
+        </section>
+        <footer>
+          <p>&copy; 2023 MARKS. All rights reserved.</p>
+        </footer>
       </div>
     </div>
   );

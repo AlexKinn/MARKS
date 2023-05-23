@@ -1,9 +1,26 @@
 
 .FrontPage {
   background: white;
-  width: 90%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.ProductHeader {
+  display: flex;
+  justify-content: space-between;
+}
+
+.ProductHeader h2 {
+  margin-left: 20px;
+}
+
+.ProductHeader button {
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 15px;
 }
 
 body {
@@ -32,6 +49,15 @@ h2 {
   margin-bottom: 20px;
 }
 
+a {
+  color: inherit; /* or any desired color */
+  text-decoration: none;
+}
+
+
+.ProductSection {
+  background-color: blue;
+}
 
 
 

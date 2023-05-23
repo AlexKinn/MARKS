@@ -14,21 +14,37 @@ const Products = () => {
     return(
         <div className="product-list">
           <Product link={headsetIMG} name="Sony WH-1000XM4 Over-Ear Wireless NC Headphones - Black"
-          description = "Nice switch,"/> 
+            price = "£290.00"
+            sale="Save 10%" 
+            originalPrice="Was £322.00"/> 
           <Product link={switchIMG} name="Nintendo Switch Console - Neon with improved battery"
-          description = "Nice switch,"/>
+            price = "£249.99"
+            sale="Save 5%"
+            originalPrice="£265.00"/>
           <Product link={vacuumIMG} name="Henry Bagged Corded Cylinder Vacuum Cleaner - Blue"
-          description = "Nice switch,"/>
+            price = "£149.99"
+            sale="Save 30%"
+            originalPrice="£215.00"/>
           <Product link={bikeIMG} name="Pazzaz Diamond 24 inch Wheel Size Kids Mountain Bike"
-          description = ""/>
+            price = "£350.00"
+            sale="Save 20%"
+            originalPrice="£437.5"/>
           <Product link={mixerIMG} name="Breville VFM034 Flow Hand Mixer - Grey"
-          description = ""/>
+            price = "£19.99"
+            sale="Save 80%"
+            originalPrice="£99.95"/>
           <Product link={washingmachineIMG} name="Bush WMSAE712EW 7KG 1200 Spin Washing Machine - White"
-          description = ""/>
+            price = "£199.99"
+            sale="Save 15%"
+            originalPrice="£235.00"/>
           <Product link={laptopIMG} name="Acer Aspire 3 15.6in AMD Athlon 8GB 128GB Laptop - Silver"
-          description = ""/>
+            price = "£629.00"
+            sale="Save 25%"
+            originalPrice="£840.00"/>
           <Product link={keyboardIMG} name="Trust GXT 834 CALLAZ TKL Wired Gaming Keyboard - Black"
-          description = ""/>        
+            price = "£49.00"
+            sale="Save 30%"
+            originalPrice="£70.00"/>        
         </div>
     )
 }

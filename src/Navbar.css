@@ -6,6 +6,11 @@ header {
     border-bottom: 0.0625rem solid #e0e0e0;
   }
 
+.bar {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
 
 nav {
     background-color: white;
@@ -49,4 +54,7 @@ nav {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
+    /* width: 400px; */
+    gap: 10px;
 }

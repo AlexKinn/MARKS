@@ -13,27 +13,27 @@ const Navbar = () => {
 
   return (
     <header>
-        <nav>
-        <div className="logo">
-            <img src={logo} alt="Logo" />
-        </div>
-        <div className="HamburgerMenu">
-            <div>
-                {!menuOpen ? (
-                    <GiHamburgerMenu onClick={menuToggleHandler} />
-                ) : (
-                    <AiOutlineClose onClick={menuToggleHandler} />
-                )}
+        <nav className="bar">
+            <div className="logo">
+                <img src={logo} alt="Logo" />
             </div>
-            <p>Categories</p>
-        </div>
-        <SearchBar />
-        <ul className="nav-links">
-            <li><a href="/">Home</a></li>
-            <li><a href="/products">Products</a></li>
-            <li><a href="/cart">Cart</a></li>
-            <li><a href="/login">Login</a></li>
-        </ul>
+            <div className="HamburgerMenu">
+                <div>
+                    {!menuOpen ? (
+                        <GiHamburgerMenu onClick={menuToggleHandler} />
+                    ) : (
+                        <AiOutlineClose onClick={menuToggleHandler} />
+                    )}
+                </div>
+                <p>Categories</p>
+            </div>
+            <SearchBar />
+            <ul className="nav-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/products">Products</a></li>
+                <li><a href="/cart">Cart</a></li>
+                <li><a href="/login">Login</a></li>
+            </ul>
         </nav>
         
     </header>
